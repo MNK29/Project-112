@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to top, #00cc99 0%, #ffffcc 100%);
+}
+
+span{
+    font-size: 30px;
+}
+
+#camera , #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+}
+
+#result_emotion_name ,#result_emotion_name2  {
+    color: black;
+}
+
+#result_emotion_name{
+    font-size: 40px;
+    color: chocolate;
+}
+
+#update_emoji{
+    font-size:100px;
+}
+
+#gestures{
+    font-size: 35px;
+}
+
+.heading{
+    font-size: 40px;
+    font-family: 'Syne Mono', monospace;
+    color: crimson;
+    background-color: aquamarine;
+    padding: 15px;
+    width: fit-content;
+    border-radius: 15px;
+}
